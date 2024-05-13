@@ -14,7 +14,8 @@ namespace CreatePage.Models
         public static Dictionary<Type, UIElement> elements = new Dictionary<Type, UIElement>()
         {
             { typeof(bool), new CheckBox() },
-            { typeof(ImageSource), new Image() },
+            { typeof(ImageSource), new Image() }
+            
         };
     }
 }

@@ -24,7 +24,7 @@ namespace CreatePage.Pages
     public partial class PageGeneration : Page
     {
         
-        public PageGeneration(Object user)
+        public PageGeneration(User user)
         {
             InitializeComponent();
             CreateElement(user);
@@ -34,25 +34,31 @@ namespace CreatePage.Pages
         private void CreateElement(object data)
         {
 
-            var props = data.GetType().GetProperties(BindingFlags.Instance | BindingFlags.Public | BindingFlags.IgnoreReturn);
+            var props = data.GetType().GetProperties(BindingFlags.Instance | BindingFlags.Public);
             foreach (var value in props)
             {
                 if (value.GetCustomAttribute<VerstkaIgnoreAttribute>() == null)
                 {
                     var content = value.GetValue(data);
                     if (content == null)
-                        continue;
+                        content="";
+                    var sp = new StackPanel();
                     if (Generator.elements.ContainsKey(content.GetType()))
                     {
+                        
+                        sp.Children.Add(new TextBlock() { Text = value.Name });
                         var element = Generator.elements[value.PropertyType];
-                        var vv = Activator.CreateInstance(element.GetType()) as UIElement;
-                        Content.Children.Add(vv);
+                        var elementNew= Activator.CreateInstance(element.GetType()) as UIElement;
+                        sp.Children.Add(elementNew);
+                        
                     }
                     else
                     {
-                        Content.Children.Add(new TextBox() { Text = content.ToString() });
+                        
+                        sp.Children.Add(new TextBlock() { Text = value.Name });
+                        sp.Children.Add(new TextBox() { Text = content.ToString() });
                     }
-
+                    Content.Children.Add(sp);
 
 
                 }
