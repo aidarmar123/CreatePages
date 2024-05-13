@@ -1,0 +1,17 @@
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\bin\Debug\CreatePage.exe.config
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\bin\Debug\CreatePage.exe
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\bin\Debug\CreatePage.pdb
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.csproj.AssemblyReference.cache
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\MainWindow.g.cs
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\Pages\PageGeneration.g.cs
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\App.g.cs
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage_MarkupCompile.cache
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage_MarkupCompile.lref
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\MainWindow.baml
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\Pages\PageGeneration.baml
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.g.resources
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.Properties.Resources.resources
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.csproj.GenerateResource.cache
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.csproj.CoreCompileInputs.cache
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.exe
+C:\Users\3D\Desktop\My works\CreatePage\CreatePage\obj\Debug\CreatePage.pdb

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\pages\\pagegeneration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\pages\\pagegeneration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\models\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\models\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\pages\\pagegeneration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\pages\\pagegeneration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|c:\\users\\3d\\desktop\\my works\\createpage\\createpage\\verstkaignoreattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7FDE7B-671D-4539-9A0A-CE6D24903D02}|CreatePage\\CreatePage.csproj|solutionrelative:createpage\\verstkaignoreattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Models\\Generator.cs",
+              "RelativeDocumentMoniker": "CreatePage\\Models\\Generator.cs",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Models\\Generator.cs",
+              "RelativeToolTip": "CreatePage\\Models\\Generator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:10:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\App.config",
+              "RelativeDocumentMoniker": "CreatePage\\App.config",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\App.config",
+              "RelativeToolTip": "CreatePage\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T13:22:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageGeneration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Pages\\PageGeneration.xaml.cs",
+              "RelativeDocumentMoniker": "CreatePage\\Pages\\PageGeneration.xaml.cs",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Pages\\PageGeneration.xaml.cs",
+              "RelativeToolTip": "CreatePage\\Pages\\PageGeneration.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:06:25.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageGeneration.xaml",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Pages\\PageGeneration.xaml",
+              "RelativeDocumentMoniker": "CreatePage\\Pages\\PageGeneration.xaml",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Pages\\PageGeneration.xaml",
+              "RelativeToolTip": "CreatePage\\Pages\\PageGeneration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T12:05:21.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CreatePage\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\Models\\User.cs",
+              "RelativeToolTip": "CreatePage\\Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:58:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerstkaIgnoreAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\VerstkaIgnoreAttribute.cs",
+              "RelativeDocumentMoniker": "CreatePage\\VerstkaIgnoreAttribute.cs",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\VerstkaIgnoreAttribute.cs",
+              "RelativeToolTip": "CreatePage\\VerstkaIgnoreAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:52:59.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CreatePage\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\MainWindow.xaml",
+              "RelativeToolTip": "CreatePage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:52:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CreatePage\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3D\\Desktop\\My works\\CreatePage\\CreatePage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CreatePage\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCQAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:52:26.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
